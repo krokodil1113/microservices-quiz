@@ -1,0 +1,6 @@
+#FileLock
+#Mon Oct 28 22:31:38 CET 2024
+hostName=Home
+id=192d50a9f9fe60c82819cda879182b1cf3ddfea3acf
+method=file
+server=192.168.0.33\:12220
